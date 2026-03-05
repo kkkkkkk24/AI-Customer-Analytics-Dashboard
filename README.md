@@ -35,10 +35,8 @@ Used for customer segmentation and analytics visualization.
 ## 🚀 Run the Project
 
 Install dependencies:
--pip install -r requirements.txt
-
--Run the Streamlit dashboard:
-
--streamlit run customer_analysis.py
+ - pip install -r requirements.txt
+Run the Streamlit dashboard:
+ - streamlit run customer_analysis.py
 
 

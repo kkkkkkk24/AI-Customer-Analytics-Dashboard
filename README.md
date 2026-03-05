@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="dashboard.1.png" width="800">
-</p>
 
 # AI Customer Analytics Dashboard
 An interactive customer analytics dashboard built using Streamlit, Plotly, and Machine Learning.

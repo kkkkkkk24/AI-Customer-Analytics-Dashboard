@@ -1,13 +1,24 @@
- predective_customer_analysis
-This project uses machine learning to predict customer purchase likelihood based on demographic and behavioral data.
+# AI Customer Analytics Dashboard
+
+An interactive customer analytics dashboard built using Streamlit, Plotly, and Machine Learning.
 
 ## Features
-- Random Forest Classifier (87%+ accuracy)
-- Synthetic dataset with age, gender, income, and score
-- Streamlit dashboard to interact with predictions
+- Interactive KPI metrics
+- Customer spending analysis
+- Income vs spending visualization
+- AI-based customer segmentation using KMeans
+- Dynamic filtering using Streamlit sidebar
+- Downloadable filtered dataset
 
-## How to Run
-```bash
+## Tech Stack
+Python
+Streamlit
+Plotly
+Pandas
+Scikit-learn
+
+## Run the Project
+
 pip install -r requirements.txt
-cd notebooks && python customer_behavior_model.py
-cd ../dashboard && streamlit run dashboard_app.py
+
+streamlit run dashboard/streamlit_app.py

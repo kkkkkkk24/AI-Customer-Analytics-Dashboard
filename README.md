@@ -22,3 +22,11 @@ Scikit-learn
 pip install -r requirements.txt
 
 streamlit run dashboard/streamlit_app.py
+
+## Dashboard Preview
+
+![Dashboard](dashboard.1.png)
+![Dashboard](dashboard.2.png)
+![Dashboard](dashboard.3.png)
+![Dashboard](dashboard.4.png)
+![Dashboard](dashboard.5.png)
